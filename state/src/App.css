@@ -1,0 +1,14 @@
+body{
+background-color: chocolate;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+.bio
+{
+width: 500px;
+padding-left: 420px;
+}
+.child
+{
+  padding-top: 100px;
+}
