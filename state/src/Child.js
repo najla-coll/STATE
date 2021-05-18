@@ -5,7 +5,7 @@ export default class Child extends Component {
     bio : "najla yousfi is a web designer, product designer ,front-end ,developer,speaker and writer she is known for her love of plants ,but is also crazy about typography,cats and coffee " , 
     profession : " Développeuse Full Stack   " ,
     image : '/imageInPublic.jpg',
-    shows :true
+    
      }  
     render() {
         return (
